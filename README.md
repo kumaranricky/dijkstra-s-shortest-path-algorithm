@@ -250,6 +250,13 @@ print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 ![Screenshot (155)](https://user-images.githubusercontent.com/75243072/167658293-ae138267-e6ed-4802-b67d-c764fe129834.png)
 ![Screenshot (156)](https://user-images.githubusercontent.com/75243072/167658311-b299a8d3-4390-4941-adf8-22fccca81fca.png)
 
+## SOLUTION JUSTIFICATION:
+Depth first algorithm is a best algorithm of finding the lowest path cost.This algorithm will go node by node.It will select a particular
+node by considering the path cost.If the path cost is low,then it will go deeper and follow the same process untill we reach the destination,
+Otherwise,it will add to frontier.
+
 ## RESULT:
+Hence, Best-First-Search Algorithm was implemented for a route finding problem.
+
 
 
