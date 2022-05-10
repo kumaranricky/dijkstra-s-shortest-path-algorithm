@@ -4,9 +4,9 @@
 To develop a code to find the shortest route from the source to the destination point using Dijkstra's shortest path algorithm.
 
 ## THEORY
-To implement Best-First_Search ( BFS ) algorithm to find the route between an initial state to a final state.
-Something like google maps. We create a dictionary to act as the dataset for the search alogrithm, containing all the distances between all the nodes ( Places ).
-
+Best first search is a traversal technique that decides which node is to be visited next by checking which node is the most promising one and then check it. For this it uses an evaluation function to decide the traversal.
+This best first search technique of tree traversal comes under the category of heuristic search or informed search technique.
+The cost of nodes is stored in a priority queue. This makes implementation of best-first search is same as that of breadth First search. We will use the priorityqueue just like we use a queue for BFS.
 ## DESIGN STEPS
 
 ### STEP 1:
