@@ -1,7 +1,6 @@
-### EXP NO: 03
 
-### DATE: 10/05/2022
 
+# <p align = "center"> Computer Networks MiniProject </p>
 
 # <p align = "center"> Dijkstra's Shortest Path Algorithm </p>
 
@@ -33,16 +32,12 @@ Display the route sequence.
 
 
 ## ROUTE MAP
-#### Include your own map
+
 #### Example map
 ![map](https://user-images.githubusercontent.com/75243072/166133888-34c37b9c-e8ed-4f27-9af6-6d633ff6a3d5.png)
 
 ## PROGRAM
-```
-Developed By
-Student name : Kumaran.B
-Reg.no : 212220230026
-```
+
 
 
 ```python
