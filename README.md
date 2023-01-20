@@ -1,6 +1,5 @@
 
 
-# <p align = "center"> Computer Networks MiniProject </p>
 
 # <p align = "center"> Dijkstra's Shortest Path Algorithm </p>
 
